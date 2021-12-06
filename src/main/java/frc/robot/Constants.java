@@ -21,6 +21,8 @@ public final class Constants {
       public static final int SUCKER_ID = 5;
       public static final int OPENER_ID = 6;
       public static final int GRABBER_ID = 10;
+      public static final int INTAKE1_ID = 12;
+      public static final int INTAKE2_ID = 13;
    }
    public static final class JOYSTICK{
       public static final int X = 3;
